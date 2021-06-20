@@ -4,24 +4,13 @@ image: "logo.png"
 links:
   - label: GitHub
     url: "https://github.com/toledo60"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-8559-0027"
   - label: Email
     url: "mailto:toledo60@g.ucla.edu"
 output:
-  postcards::trestles
+  postcards::jolla
 ---
 
-I am currently a Statistics Ph.D. Candidate at UCLA
-
-------------------------------------------------------------------------
-
-## Education
-
-**University of California, Los Angeles**
-
-Ph.D. in Statistics 2021-Current
-
-**California State University, Fullerton**
-
-M.S in Statistics 2021
-
-B.A in Mathematics 2019
+I am currently a Statistics Ph.D. Candidate at UCLA. I earned my B.A in Mathematics
+and M.S in Statistics at California State University, Fullerton
