@@ -12,5 +12,4 @@ output:
   postcards::jolla
 ---
 
-I am currently a Statistics Ph.D. Candidate at UCLA. I earned my B.A in Mathematics
-and M.S in Statistics at California State University, Fullerton
+I am currently a Statistics Ph.D. Candidate at UCLA
