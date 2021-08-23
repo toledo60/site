@@ -1,11 +1,11 @@
 ---
 title: "Jose Toledo Luna"
-image: "logo.png"
+image: "20190121_174757.jpg"
 links:
   - label: GitHub
     url: "https://github.com/toledo60"
-  - label: ORCID
-    url: "https://orcid.org/0000-0001-8559-0027"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Jose-Toledo-Luna"
   - label: Email
     url: "mailto:toledo60@g.ucla.edu"
 output:
