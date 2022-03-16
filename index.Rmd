@@ -5,11 +5,13 @@ links:
   - label: GitHub
     url: "https://github.com/toledo60"
   - label: CV
-    url: "https://github.com/toledo60/site/blob/main/cv.pdf"
+    url: "https://github.com/toledo60/site/blob/main/CV/cv.pdf"
   - label: Email
     url: "mailto:toledo60@g.ucla.edu"
 output:
   postcards::jolla
 ---
 
-I am currently a Statistics Ph.D. Candidate at UCLA
+I am currently a Statistics Ph.D. student at UCLA. Prior to joining UCLA,
+I obtained my BA and MS degrees in Statistics from California State University, 
+Fullerton.
