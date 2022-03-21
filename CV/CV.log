@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.16)  16 MAR 2022 13:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.16)  20 MAR 2022 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -245,41 +245,26 @@ LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 47.
+(Font)              <7> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 47.
+(Font)              <5> on input line 45.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 105--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
@@ -289,17 +274,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--139
 
 pdfTeX warning: pdflatex (file pdftex.map): cannot open font map file
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
 
  []
 
@@ -311,7 +306,7 @@ Here is how much of TeX's memory you used:
  25808 multiletter control sequences out of 15000+600000
  471921 words of font info for 37 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 60i,5n,63p,240b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,5n,63p,240b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr7.p
 k> </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm100
 0.pk> </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmti10
@@ -320,9 +315,9 @@ pk> </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk
 > </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmcsc10.pk
 > </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi864/cmcsc10.pk
 >
-Output written on CV.pdf (2 pages, 58014 bytes).
+Output written on CV.pdf (2 pages, 62239 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
+ 210 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
