@@ -9,9 +9,24 @@ links:
   - label: Email
     url: "mailto:toledo60@g.ucla.edu"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
+
+## Bio
 
 I am currently a Statistics Ph.D. student at UCLA. Prior to joining UCLA,
 I obtained my BA and MS degrees in Statistics from California State University, 
 Fullerton.
+
+
+## Teaching Experience
+
+**California State University, Fullerton**
+
+- Math 115: College Algebra (Fall 2019)
+- Math 120: Elementary Statistics (Spring 2020, Fall 2020)
+- Math 338: Statistics Applied to Natural Sciences (Spring 2021)
+
+## Publications
+
+- Luna, J., Jaynes, J.,  Xu, H., Wong, W. K. (2022). Orthogonal Array Composite Designs for  Drug Combination Experiments with Applications to Tuberculosis. *Statistics in Medicine*

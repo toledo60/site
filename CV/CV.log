@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.16)  20 MAR 2022 18:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.16)  9 MAY 2022 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,7 +301,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--182
 [2] ) 
 Here is how much of TeX's memory you used:
  7916 strings out of 480519
- 124458 string characters out of 2896056
+ 124479 string characters out of 2896056
  420799 words of memory out of 3000000
  25808 multiletter control sequences out of 15000+600000
  471921 words of font info for 37 fonts, out of 8000000 for 9000
@@ -315,9 +315,9 @@ pk> </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk
 > </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmcsc10.pk
 > </home/toledo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi864/cmcsc10.pk
 >
-Output written on CV.pdf (2 pages, 62239 bytes).
+Output written on CV.pdf (2 pages, 60169 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
+ 204 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
